@@ -1,5 +1,7 @@
 # Inventory Sales & Purchase Dashboard — Power BI
 
+![Inventory Sales and Purchase Executive Dashboard](Inventory_Executive_Dashboard.png)
+
 ## Project Overview
 This portfolio project demonstrates how Microsoft Power BI can be used to analyze sales, purchasing, inventory levels, and supplier performance through interactive dashboards.
 
